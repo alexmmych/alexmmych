@@ -22,5 +22,5 @@ My favorite languages are:
 
 ***
 
-- Linkedin: [linkedin.com/in/alexander-maykl-mychlo/](linkedin.com/in/alexander-maykl-mychlo/)
+- Linkedin: [https://www.linkedin.com/in/alexander-maykl-mychlo/](https://www.linkedin.com/in/alexander-maykl-mychlo/)
 - Mail: alexmmych@gmail.com
