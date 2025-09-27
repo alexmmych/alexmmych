@@ -1,7 +1,6 @@
 ### Perfil de Github / Github Profile 💻 ⌨️ 🗃️
 
-![Junior Software developer](https://github.com/alexmmych/alexmmych/assets/54857786/01ddc229-832e-4845-8d41-6187d6533c7a)
-
+<img width="1050" height="600" alt="326182969-01ddc229-832e-4845-8d41-6187d6533c7a" src="https://github.com/user-attachments/assets/8df156b4-19c2-46d6-a044-a35da75619b8" />
 
 Hola, soy Alexander Maykl Mychlo y soy programador de FP Superior de DAM de UNIVERSAE. Estoy buscando prácticas o puestos Junior donde pueda aprender más sobre la programación e incrementar mis conocimientos y experiencia.
 
